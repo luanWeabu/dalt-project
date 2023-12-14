@@ -1,0 +1,40 @@
+{  
+  "users": [
+    {
+      "id": "1",
+      "firstName": "banh",
+      "lastName":"bao",
+      "email": "banhbao123@gmail.com",
+      "role": "superAdmin",
+      "dateOfBirth": "10/07/2000",
+      "phone": "0913317626"
+    },
+    {
+      "id": "2",
+      "firstName": "banh",
+      "lastName":"mi",
+      "email": "banhmi123@gmail.com",
+      "role": "Admin",
+      "dateOfBirth": "12/08/1995",
+      "phone": "0904769099"
+    },
+    {
+      "id": "3",
+      "firstName": "banh",
+      "lastName":"gao",
+      "email": "banhgao123@gmail.com",
+      "role": "User",
+      "dateOfBirth": "03/28/1997",
+      "phone": "0913174431"
+    },
+    {
+      "id": "4",
+      "firstName": "mi",
+      "lastName":"tom",
+      "email": "mitom123@gmail.com",
+      "role": "Admin",
+      "dateOfBirth": "07/10/1989",
+      "phone": "0999924788"
+    }
+  ]
+}
